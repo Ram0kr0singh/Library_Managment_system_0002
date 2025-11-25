@@ -1,0 +1,14 @@
+{
+    "1001": {
+        "member_id": "1001",
+        "name": "Ram Kumar Singh",
+        "borrowed_books": [
+            "0001"
+        ]
+    },
+    "Harsh Singh": {
+        "member_id": "Harsh Singh",
+        "name": "Harsh Singh",
+        "borrowed_books": []
+    }
+}
