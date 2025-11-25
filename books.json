@@ -1,0 +1,14 @@
+{
+    "0001": {
+        "book_id": "0001",
+        "title": "Usogui",
+        "author": "Toshio Sako",
+        "available": false
+    },
+    "0002": {
+        "book_id": "0002",
+        "title": "Vagabond",
+        "author": "Takehiko Inoue",
+        "available": true
+    }
+}
